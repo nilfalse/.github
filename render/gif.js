@@ -33,7 +33,7 @@ async function streamGIF(encoder, firstFrame) {
 
   encoder.start();
   encoder.setRepeat(0);
-  encoder.setDelay(1000);
+  encoder.setDelay(4000);
 
   ctx.fillStyle = '#ffffff';
   ctx.fillRect(0, 0, img.width, img.height);
