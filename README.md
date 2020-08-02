@@ -1,3 +1,7 @@
-# Hello World
+#### ∞ contributions in the last year
 
-![Web Developer GIF](https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif)
+| <img src="./contributions.gif" alt="Contributions" width="722px" height="112px" /> |
+| ---------------------------------------------------------------------------------- |
+
+
+[Learn how we count contributions](https://nilfalse.com/)
